@@ -1,2 +1,2 @@
 # R
-My Projects using R and Shiny
+The folder contains projects developed using R and Shiny
